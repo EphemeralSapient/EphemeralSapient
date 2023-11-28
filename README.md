@@ -21,8 +21,5 @@ Welcome to my stupid account! I have repositories that I create and maintain for
 - Currently delving into React ⚛️ 
 - Previous experience with ROBLOX Lua scripting and Zoho Deluge for Zobot scripting 🤖 [ and maybe for long time, I may not bother with these ]
 
-## College Life
-Balancing academic pursuits with a passion for technology. Constantly seeking opportunities to apply and enhance my knowledge. Maybe not.
-
 ## Collaboration
 I'm always open to collaboration and discussions. Feel free to reach out on Discord.
