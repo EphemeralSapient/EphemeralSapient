@@ -1,25 +1,27 @@
-# 👋 Hello, I'm EphemeralSapient, and also I go by "semp" 
+# hey, i'm semp
 
-Welcome to my stupid account! I have repositories that I create and maintain for a while, only to let them sink into dormancy for quite some time. One day, perhaps, I will attain the perfection of a complete project
+cs student who starts projects with grand ambitions and watches them slowly collect dust. one day i'll finish something. probably.
 
-## 🔧 Technologies
+---
 
-- **Programming Languages**: Flutter [ Dart ], C++, Python, Lua, Java, JavaScript
-- **Preferred OS**: Arch Linux 🐧 [ I use arch btw ]
-- **Favorite Window Manager**: i3, KDE [ I am not lying ] 
-- **Side note**, I maintain yet another account for codebase in replit : https://replit.com/@sempit
-  
-## What I Do
+**stuff i work with** | ~~Flutter/Dart, C++, Python, Lua, Java, JS~~ honestly LLMs handle it better now, outdated i guess
 
-- Spend time on building random apps with flutter, don't ask why 
-- Read manga at asuracomics and other sites
-- Wonder why I keep compiling the open source programs when I can use pre-built binaries
-- Discord is my communication hub - find me as **semp1337**, sounds silly?
+**setup** | arch linux (yes, i use arch btw) + i3/KDE depending on mood | FEX and wine enjoyer
 
-## 🌱 Learning & Exploring
+**gear** | raspberry pi 5, google coral, own ipv4 + domain (not exposing it yet lol)
 
-- Currently learning GCP at my best, dunno how long it may prolong
-- Previous experience with ROBLOX Lua scripting [ made a game and it died real quick ] and Zoho Deluge [ zobot and Cliq, through internship at zoho and yes it's a scripting language ]
+**want** | a proper GPU or server setup, L40 would be the awesome
 
-## Collaboration
-I'm always open to collaboration and discussions. Feel free to reach out on Discord.
+i mostly build random flutter apps for no reason, read manga when i should be coding, and compile from source when binaries exist because apparently i hate myself.
+
+---
+
+**currently** | trying to make a chrome extension that translates raw manga/manhwa/manhua + doing a self-startup. we'll see how long that lasts.
+
+**past lives** | roblox lua dev (made a game, it flopped; 2017), attendance/event app for college, scoreboard [actual]
+
+---
+
+**find me** | discord @ semp1337
+
+always online there. like really.
